@@ -6,7 +6,7 @@ Web Developer
 
 I am a continuous improvement fullstack developer.<br/> 
 I would like to build technology to improve people's lives.<br/> 
-I have changed my career because of the covid quarantine, that was hard, but I have discovered this exciting new world for me, so I have burned the ships. 
+I have changed my career because of the covid quarantine :mask:, that was hard, but I have discovered this exciting new world for me, so I have burned the ships. 
 
 
 * 🌍  I'm based in Formosa, Argentina. (but I would like to work in any other part of the world :wink: )
