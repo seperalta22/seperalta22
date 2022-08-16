@@ -11,7 +11,7 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 
 * 🌍  I'm based in Formosa, Argentina. (but I would like to work in any other part of the world :wink: )
 * ✉️  You can contact me at [seperalta88@gmail.com](mailto:seperalta88@gmail.com)
-* 🧠  I'm learning Nest.js, Next.js., Flutter.
+* 🧠  I'm learning Nest.js, Angular, Flutter.
 * 🤝  I'm open to collaborating on backend and frontend roles
 
 ### Skills
