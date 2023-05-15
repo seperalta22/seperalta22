@@ -1,6 +1,4 @@
-<br>
-<br>
-<br>
+
 <p align="center">
   <img width="500" src="https://github.com/SergioPeralta22/sergioperalta22/assets/78930134/a485dbf0-fdf8-4d98-bcf0-b5d169946a5d" />
 </p>
