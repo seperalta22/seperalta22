@@ -55,7 +55,7 @@ Software developer passionate about building scalable and user-friendly applicat
 </p>
 <br>
 <p >
-  <img src="https://streak-stats.demolab.com/?user=sergioperalta22&&show_icons=true&theme=dark&card_width=800" />
+  <img src="https://streak-stats.demolab.com/?user=sergioperalta22&&show_icons=true&theme=dark&card_width=785" />
 </p>
 
 
