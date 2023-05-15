@@ -1,19 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergio Peralta
-======================================================================================================================================
-
-Web Developer
----------------------
-
-Software engineer passionate about building scalable and user-friendly applications. I enjoy working with cutting-edge technologies and collaborating with teams to solve complex problems. Experienced in full-stack development, I'm proficient in languages such as Go, JavaScript, and Java, and frameworks like Django, React, and Spring. Always striving to expand my knowledge and keep up with the latest industry trends. Open to exciting opportunities and projects that challenge me to grow as a developer. Let's connect and build amazing things together!
-.<br/> 
-I would like to build technology to improve people's lives.<br/> 
-I have changed my career because of the covid quarantine :mask:, that was hard, but I have discovered this exciting new world for me, so I have burned the ships. 
+<br>
+<br>
+<br>
+<p align="center">
+  <img width="500" src="https://github.com/SergioPeralta22/sergioperalta22/assets/78930134/a485dbf0-fdf8-4d98-bcf0-b5d169946a5d" />
+</p>
+<br>
+<br>
 
 
-* 🌍  I'm based in Formosa, Argentina. (but I would like to work in any other part of the world :wink: )
-* ✉️  You can contact me at [seperalta88@gmail.com](mailto:seperalta88@gmail.com)
-* 🧠  I'm learning RoR.
-* 🤝  I'm open to collaborating on backend and frontend roles
+## About Me
+
+Software developer passionate about building scalable and user-friendly applications. I enjoy working with cutting-edge technologies and collaborating with teams to solve complex problems. Experienced in full-stack web and mobile development. Always striving to expand my knowledge and keep up with the latest industry trends. Open to exciting opportunities and projects that challenge me to grow as a developer. Let's connect and build amazing things together!
+
+
 
 ### Skills
 
@@ -49,6 +48,16 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sergioperalta22"><img src="https://github-readme-stats.vercel.app/api?username=sergioperalta22&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sergioperalta22's GitHub stats" /></a>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioperalta22&langs_count=10&layout=compact&show_icons=true&locale=en&size_weight=0.8&count_weight=0.2&theme=dark"  />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sergioperalta22&show_icons=true&locale=en&theme=dark" />
+</p>
+<br>
+<p >
+  <img src="https://streak-stats.demolab.com/?user=sergioperalta22&&show_icons=true&theme=dark&card_width=800" />
+</p>
 
-<a href="http://www.github.com/sergioperalta22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sergioperalta22&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
