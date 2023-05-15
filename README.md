@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 ---------------------
 
-I am a continuous improvement fullstack developer.<br/> 
+Software engineer passionate about building scalable and user-friendly applications. I enjoy working with cutting-edge technologies and collaborating with teams to solve complex problems. Experienced in full-stack development, I'm proficient in languages such as Go, JavaScript, and Java, and frameworks like Django, React, and Spring. Always striving to expand my knowledge and keep up with the latest industry trends. Open to exciting opportunities and projects that challenge me to grow as a developer. Let's connect and build amazing things together!
+.<br/> 
 I would like to build technology to improve people's lives.<br/> 
 I have changed my career because of the covid quarantine :mask:, that was hard, but I have discovered this exciting new world for me, so I have burned the ships. 
 
