@@ -47,7 +47,7 @@ Software developer passionate about building scalable and user-friendly applicat
 </p>
 
 ## Backend
-
+<p align="left">
 <!-- nest -->
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="Nest" /></a>
 <!-- go -->
@@ -57,7 +57,7 @@ Software developer passionate about building scalable and user-friendly applicat
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="36" height="36"/> </a>
 <!-- laravel - -->
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-
+</p>
 ## Fullstack
 
 <p align="left">
