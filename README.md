@@ -71,12 +71,12 @@ Sorry, but my best code is the one that pays the bills, and that's only in GitLa
 ## My GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioperalta22&langs_count=10&layout=compact&show_icons=true&locale=en&size_weight=0.8&count_weight=0.2&theme=dark"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seperalta22&langs_count=10&layout=compact&show_icons=true&locale=en&size_weight=0.8&count_weight=0.2&theme=dark"  />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sergioperalta22&show_icons=true&locale=en&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seperalta22&show_icons=true&locale=en&theme=dark" />
 </p>
 <br>
 <p >
-  <img src="https://streak-stats.demolab.com/?user=sergioperalta22&&show_icons=true&theme=dark&card_width=785" />
+  <img src="https://streak-stats.demolab.com/?user=seperalta22&&show_icons=true&theme=dark&card_width=785" />
 </p>
