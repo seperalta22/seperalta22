@@ -10,7 +10,7 @@
 
 Software developer passionate about building scalable and user-friendly applications. I enjoy working with cutting-edge technologies and collaborating with teams to solve complex problems. Experienced in full-stack web and mobile development. Always striving to expand my knowledge and keep up with the latest industry trends. Open to exciting opportunities and projects that challenge me to grow as a developer. Let's connect and build amazing things together!
 
-**Sorry, but my best code is the one that pays the bills, and that's only in GitLab now. So no one of these repositories reflects my current skills anymore.**
+## **Note: My best code is on GitLab, where I work on production-level projects that pay the bills. These GitHub repositories reflect my journey, but they not represent my latest skill set.**
 
 ## Languages
 
